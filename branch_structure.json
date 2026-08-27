@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "feat/870-websocket-session-management",
+    "feature/model-checkpoint-database",
+    "main",
+    "origin",
+    "project_initialization",
+    "revert-258-MOBILE-Implement-Mobile-Optimization",
+    "revert-259-frontend"
+  ],
+  "parent": {
+    "dev": "main",
+    "feat/870-websocket-session-management": "main",
+    "feature/model-checkpoint-database": "main",
+    "main": null,
+    "origin": "main",
+    "project_initialization": "main",
+    "revert-258-MOBILE-Implement-Mobile-Optimization": "main",
+    "revert-259-frontend": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "feat/870-websocket-session-management",
+    "feature/model-checkpoint-database",
+    "origin",
+    "project_initialization",
+    "revert-258-MOBILE-Implement-Mobile-Optimization",
+    "revert-259-frontend"
+  ]
+}
